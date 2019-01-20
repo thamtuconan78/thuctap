@@ -1,0 +1,9 @@
+1
+cau hoi 1: o banh mi 10 ngan an khong ?
+A. ok
+B. ko
+C. cho
+cau hoi 2: ranh khong ?
+A. ok
+B. ko
+C. mai
